@@ -1,5 +1,5 @@
 # React + Vite
-I made a very simple web app with a embedded video using minimal setup to get React working in Vite.
+I made a very simple web app with an embedded video using minimal setup to get React working in Vite.
 
 ## How I Went About Doing it 
 - **First:** I used ```npm create vite@latest react-vite-d1 -- --template react``` to set up React
