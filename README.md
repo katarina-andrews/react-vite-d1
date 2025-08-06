@@ -9,3 +9,5 @@ I made a very simple web app with an embedded video using minimal setup to get R
 - **Fifth:** After that, I made a function in each component file and imported them to ```App.jsx```. 
 - **Sixth:**. Lastly, I added simple styling to ```App.css``` and imported it to ```App.jsx```.
 
+
+Sidenote: ran into a problem where I had to delete the ```node_modules``` folder and ```package-lock.json``` file and reinstall them.
